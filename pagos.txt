@@ -1,0 +1,10 @@
+Número de Tarjeta: 4545554545544, Nombre: visa, Fecha: 05/12/2024
+Número de Tarjeta: 45454554845454, Nombre: visa, Fecha: 05/12/2024
+Número de Tarjeta: 45454554845454, Nombre: visa, Fecha: 05/12/2024
+Número de Tarjeta: 5556565656556, Nombre: american express, Fecha: 05/12/2024
+Número de Tarjeta: 454555646565, Nombre: visa, Fecha: 05/12/2024
+Número de Tarjeta: 5545454545454, Nombre: american express, Fecha: 05/12/2024
+Número de Tarjeta: 5454554555, Nombre: visa, Fecha: 05/12/2024
+Número de Tarjeta: 12455555454, Nombre: american express, Fecha: 05/12/2024
+Número de Tarjeta: 12455555455, Nombre: visa, Fecha: 05/12/2024
+Número de Tarjeta: 5454545454545, Nombre: MIO, Fecha: 05/12/2024
